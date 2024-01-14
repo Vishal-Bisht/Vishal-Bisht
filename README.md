@@ -26,8 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vishal-Bisht&show_icons=true&locale=en&theme=neon&bg_color=00000000" alt="Vishal-Bisht" height="180" width="420"/>
 </p>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Bisht&theme=neon&bg_color=00000000" alt="Vishal-Bisht" /></p>
-
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 
 <p align="center" dir="auto"><br><br>
