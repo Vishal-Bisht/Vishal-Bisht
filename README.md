@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Java project**
 
-- 🌱 I’m currently learning **C, C++, DSA, Python, FrontEnd and MySQL**
+- 🌱 I’m currently learning **C++, DSA, Python and MySQL**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **DSA projects**
 
 - 📫 How to reach me **bishtvishal390@gmail.com**
 
