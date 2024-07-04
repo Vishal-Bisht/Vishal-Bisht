@@ -2,7 +2,7 @@
 <h3 align="center">An Enthusiastic Programming Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Java project**
+- 🔭 I’m currently working on an **E-commerce project**
 
 - 🌱 I’m currently learning **C++, DSA, Python and MySQL**
 
