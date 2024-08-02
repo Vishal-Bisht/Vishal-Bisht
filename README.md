@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C++, DSA, Python and MySQL**
 
-- 👯 I’m looking to collaborate on **DSA projects**
+- 👯 I’m looking to collaborate on **Web dev projects**
 
 - 📫 How to reach me **bishtvishal390@gmail.com**
 
