@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Vishal Bist</h1>
+<h1 align="center">Hi 👋, I'm Vishal Bisht</h1>
 <h3 align="center">An Enthusiastic Programming Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on an **E-commerce project**
+- 🔭 I’m currently working on a **Real Time Project in React**
 
-- 🌱 I’m currently learning **C++, DSA, Python and MySQL**
+- 🌱 I’m currently learning **C++, DSA, LLM and React**
 
-- 👯 I’m looking to collaborate on **Web dev projects**
+- 👯 I’m looking to collaborate on **Frontend projects**
 
 - 📫 How to reach me **bishtvishal390@gmail.com**
 
