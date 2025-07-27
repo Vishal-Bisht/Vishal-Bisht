@@ -2,11 +2,11 @@
 <h3 align="center">An Enthusiastic Programming Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on a **Real Time Project in React**
+- 🔭 I’m currently working on a **Real Time Project with MERN**
 
-- 🌱 I’m currently learning **C++, DSA, LLM and React**
+- 🌱 I’m currently learning **DSA, LLM and Next**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **Software projects**
 
 - 📫 How to reach me **bishtvishal390@gmail.com**
 
