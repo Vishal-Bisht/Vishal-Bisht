@@ -23,8 +23,8 @@
 ## Show Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-nu-orpin-74.vercel.app/api?username=Vishal-Bisht&show_icons=true&locale=en&theme=neon&bg_color=00000000&include_all_commits=true" alt="Vishal-Bisht Stats" height="180" width="420"/>
-  <img src="https://github-readme-stats-nu-orpin-74.vercel.app/api/top-langs/?username=Vishal-Bisht&layout=compact&langs_count=8&theme=neon&bg_color=00000000" alt="Vishal-Bisht Top Languages" height="180" width="420"/>
+  <img src="https://github-readme-stats-d8zveqjht-vishal-bishts-projects-6dab4b84.vercel.app/api?username=Vishal-Bisht&show_icons=true&locale=en&theme=neon&bg_color=00000000&include_all_commits=true" alt="Vishal-Bisht Stats" height="180" width="420"/>
+  <img src="https://github-readme-stats-d8zveqjht-vishal-bishts-projects-6dab4b84.vercel.app/api/top-langs/?username=Vishal-Bisht&layout=compact&langs_count=8&theme=neon&bg_color=00000000" alt="Vishal-Bisht Top Languages" height="180" width="420"/>
 </p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
